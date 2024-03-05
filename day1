@@ -2,4 +2,10 @@ learning git
 hello on 4th of march
 hello from read only
 hello
+
+
+
+<<<<<<< HEAD
 hello from new branch 
+=======
+>>>>>>> eb259875009168b5debc76aa821038f2cef9b40f
